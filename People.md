@@ -13,7 +13,7 @@ layout: page
 
 <br>
 
-### Post-doctoral candidate
+### Post-doctoral fellow
 
 <br>
 

@@ -1,4 +1,5 @@
 ---
+title: Our research
 layout: page
 ---
 

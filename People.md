@@ -5,7 +5,7 @@ layout: page
 
 ## Principal Investigator
 
-<img align="left" src="/img/kridel.png" height="200">
+<img align="left" src="/img/kridel.png" height="150">
 
 **Robert Kridel**
 

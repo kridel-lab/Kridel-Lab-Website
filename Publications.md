@@ -3,9 +3,9 @@ title: Publications
 layout: page
 ---
 
-A full list of publications can be found [here](https://scholar.google.lu/citations?user=JFRauOgAAAAJ&hl=en)
+A full list of publications can be found [here](https://scholar.google.lu/citations?user=JFRauOgAAAAJ&hl=en).
 
-#Key research papers#
+#Key research papers
 
 Histological Transformation and Progression in Follicular Lymphoma: a Clonal Evolution Study. Kridel R\*, Chan FC\*, Mottok A, Boyle M, Farinha P, Tan K, Meissner B, Bashashati A, McPherson A, Roth A, Shumansky K, Yap D, Ben-Neriah S, Rosner J, Smith MA, Nielsen C, Giné E, Telenius A, Ennishi D, Mungall A, Moore R, Morin RD, Johnson NA, Sehn LH, Tousseyn T, Dogan A, Connors JM, Scott DW, Steidl C, Marra MA, Gascoyne RD, Shah P. PLOS Medicine. 2016 Dec 13;13(12):e1002197. (\* denotes equal contribution)
 
@@ -21,7 +21,7 @@ The prognostic impact of CD163-positive macrophages in follicular lymphoma: A st
 
 Whole transcriptome sequencing reveals recurrent NOTCH1 mutations in mantle cell lymphoma. Kridel R, Meissner B, Rogic S, Boyle M, Telenius A, Woolcock B, Gunawardana J, Jenkins C, Cochrane C, Ben-Neriah S, Tan K, Morin RD, Opat S, Sehn LH, Connors JM, Marra MA, Weng AP, Steidl C, Gascoyne RD. Plenary Paper. Blood. 2012 Mar 1;119(9):1963-71.
 
-#Key review papers#
+#Key review papers
 
 Pathogenesis of follicular lymphoma. Kridel R, Sehn LH, Gascoyne RD. J Clin Invest. 2012 Oct 1;122(10):3424-31.
 

@@ -8,7 +8,11 @@ layout: page
 <img align="left" src="/img/kridel.png" height="200">
 
 **Robert Kridel**
+
 <robert.kridel@uhn.ca>  
+
+
+
 
 ---
 

@@ -1,6 +1,6 @@
 ---
+title: Funding
 layout: page
-subtitle: Funding
 ---
 
 Coming soon ..

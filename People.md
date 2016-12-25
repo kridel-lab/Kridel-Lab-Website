@@ -11,13 +11,10 @@ layout: page
 
 <robert.kridel@uhn.ca>  
 
-
-
-
----
+<br>
 
 ### Post-doctoral candidate
 
----
+<br>
 
 ### Research Technician

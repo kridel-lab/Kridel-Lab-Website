@@ -3,4 +3,4 @@ title: Funding
 layout: page
 ---
 
-![](/img/PM_logo.jpeg)
+<img align="centre" src="/img/PM_logo.jpeg" height="200">

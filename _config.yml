@@ -41,7 +41,7 @@ author:
   email: "robert.kridel@uhn.ca"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
+  twitter: rkridel   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: Robert Kridel  # eg. daattali
@@ -57,7 +57,7 @@ footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: false
+  twitter: true
   google-plus: false
   github: false
   reddit: false

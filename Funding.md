@@ -1,7 +1,4 @@
 ---
 layout: page
-title: Funding
-subtitle: Lymphoma Translational Research Lab
+subtitle: Funding
 ---
-
-bla bla

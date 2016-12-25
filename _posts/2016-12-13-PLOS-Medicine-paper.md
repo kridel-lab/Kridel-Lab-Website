@@ -1,5 +1,5 @@
 ---
-title: "Paper out"
+subtitle: "Paper out"
 date: "Dec 13, 2016"
 layout: post
 output:

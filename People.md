@@ -3,7 +3,7 @@ title: People
 layout: page
 ---
 
-## Principal Investigator
+### Principal Investigator
 
 <img align="left" src="/img/kridel.png" height="150">
 
@@ -16,8 +16,8 @@ layout: page
 
 ---
 
-## Post-doctoral candidate
+### Post-doctoral candidate
 
 ---
 
-## Research Technician
+### Research Technician

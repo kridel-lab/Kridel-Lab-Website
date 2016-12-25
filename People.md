@@ -7,7 +7,7 @@ layout: page
 
 <img align="right" src="/img/kridel.png" height="150">
 
-**Robert Kridel, MD MPH PhD**
+**Robert Kridel**
 
 Oncologist and Affiliate Scientist, Princess Margaret Cancer Centre
 Assistant Professor, Faculty of Medicine, University of Toronto

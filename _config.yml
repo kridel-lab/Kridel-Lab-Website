@@ -23,7 +23,7 @@ description: Lymphoma Translational Research Lab
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "Research"
+  Research: "Research"
   News: "News"
   People: "People"
   Publications: "Publications"

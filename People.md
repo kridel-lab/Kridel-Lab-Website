@@ -22,3 +22,5 @@ Assistant Professor, Faculty of Medicine, University of Toronto
 ---
 
 ### Research Technician
+
+**Kit Tong**

@@ -16,13 +16,13 @@ Assistant Professor, Faculty of Medicine, University of Toronto
 <br>
 ---
 
-### Post-doctoral fellow
+### Research Technician
 
-**Tracy Lackraj**
+**Kit Tong**
 
 <br>
 ---
 
-### Research Technician
+### Post-doctoral fellow
 
-**Kit Tong**
+**Tracy Lackraj**

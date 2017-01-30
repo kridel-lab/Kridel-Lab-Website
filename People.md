@@ -9,8 +9,6 @@ layout: page
 
 **Robert Kridel**
 
-Oncologist and Affiliate Scientist, Princess Margaret Cancer Centre
-Assistant Professor, Faculty of Medicine, University of Toronto
 <robert.kridel@uhn.ca>  
 
 <br>

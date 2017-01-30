@@ -18,6 +18,8 @@ Assistant Professor, Faculty of Medicine, University of Toronto
 
 ### Post-doctoral fellow
 
+**Tracy Lackraj**
+
 <br>
 ---
 

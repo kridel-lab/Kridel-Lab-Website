@@ -9,8 +9,7 @@ layout: page
 
 **Robert Kridel**
 
-Clinician-scientist, Princess Margaret Cancer Centre
-
+Clinician-scientist, Princess Margaret Cancer Centre<br>
 <robert.kridel@uhn.ca>  
 
 <br>

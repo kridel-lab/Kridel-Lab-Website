@@ -6,4 +6,4 @@ output:
   html_document:
 ---
 
-Our review paper was recently published: [Can histologic transformation of follicular lymphoma be predicted and prevented?](http://www.bloodjournal.org/content/130/3/258) Kridel R, Sehn LH and Gascoyne RD. Blood 2017.
+Our review paper was recently published: [Can histologic transformation of follicular lymphoma be predicted and prevented?](http://www.bloodjournal.org/content/130/3/258) Kridel R, Sehn LH and Gascoyne RD. Blood, 2017.

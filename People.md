@@ -10,6 +10,7 @@ layout: page
 **Robert Kridel**
 
 Clinician-scientist, Princess Margaret Cancer Centre<br>
+Assistant Professor, Dept of Medicine, University of Toronto
 <robert.kridel@uhn.ca>  
 
 <br>

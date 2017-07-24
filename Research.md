@@ -11,7 +11,7 @@ We have an interest in B-cell lymphomas and are focusing on scenarios that are a
 
 <img align="centre" src="/img/2017-07-23 Website Figure Research.png" height="250">
 
----
+<br>
 
 ### Research projects
 

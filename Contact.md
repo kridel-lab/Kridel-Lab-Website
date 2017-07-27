@@ -3,10 +3,10 @@ title: Contact
 layout: page
 ---
 
-Kridel lab
-Princess Margaret Cancer Research Tower
-101 College Street, 12th floor
-Toronto, ON
-M5G 1L7
+Kridel lab<br>
+Princess Margaret Cancer Research Tower<br>
+101 College Street, 12th floor<br>
+Toronto, ON<br>
+M5G 1L7<br>
 
-[email us](mailto:robert.kridel@uhn.ca)
+[E-mail us](mailto:robert.kridel@uhn.ca)

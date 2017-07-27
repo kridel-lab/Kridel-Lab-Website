@@ -1,5 +1,5 @@
 ---
-title: Our collaborators
+title: Collaborations
 layout: page
 ---
 

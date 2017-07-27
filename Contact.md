@@ -3,7 +3,7 @@ title: Contact
 layout: page
 ---
 
-Kridel lab<br>
+### Kridel lab<br>
 Princess Margaret Cancer Research Tower<br>
 101 College Street, 12th floor<br>
 Toronto, ON<br>

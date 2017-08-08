@@ -9,18 +9,20 @@ layout: page
 
 **Robert Kridel, MD PhD**
 
-Robert is a Clinician-Scientist at the Princess Margaret Cancer Centre and an Assistant Professor in the Department of Medicine at the University of Toronto. He trained in medical oncology in Geneva, Switzerland, prior to moving to Vancouver where he spent 6 years at the BC Cancer Agency, training with Drs. Randy Gascoyne and Laurie Sehn. His expertise lies in the application of genomic approaches to understand prognosis, tumour evolution and treatment resistance in follicular lymphoma.
+Robert is a Clinician-Scientist at the Princess Margaret Cancer Centre and an Assistant Professor in the Department of Medicine at the University of Toronto. He trained in medical oncology in Geneva, Switzerland, prior to moving to Vancouver where he obtained his PhD from the University of British Columbia and completed a lymphoma fellowship at the BC Cancer Agency. Robert's research interests lie in the application of genomic approaches to lymphoma samples, aiming to better understand how genetic alterations contribute to prognosis, treatment resistance and tumour evolution.
 
-<br>
 ---
 
 ### Research Technician
 
 **Kit Tong, PhD**
 
-<br>
+Kit is a Research Technician and Lab Manager in our lab. She obtained her Bachelor of Science Degree from the University of Saskatchewan, and her PhD from the University of Tsukuba in Japan. Kit has extensive experience with cell biology, animal models, molecular biology and biochemistry. She won several awards during her training and has first- or co-authored over 40 publications.
+
 ---
 
 ### Post-doctoral fellow
 
 **Tracy Lackraj, PhD**
+
+Tracy came to us from Ryerson University, after very successful doctoral studies in microbiology. She first-authored several papers on the pathogenicity of diarrheagenic pathogens during her PhD. Tracy is currently applying her molecular biology skills to lymphoma.

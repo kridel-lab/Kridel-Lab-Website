@@ -7,6 +7,7 @@ A full list of publications can be found [here](https://scholar.google.lu/citati
 
 ### Key research papers:
 
+- FOXP1 expression is a prognostic biomarker in follicular lymphoma treated with rituximab-containing regimens. Mottok A, Jurinovic V, ... Hoster E, Weigert O, Kridel R. Blood. 2017 [in press]
 - Diffuse large B-cell lymphoma with testicular involvement: Outcome and risk of CNS relapse in the rituximab era. Kridel R\*, Telio D\*, ... Savage KJ. British Journal of Haematology. 2017 Jan;176(2):210-221. (\* denotes equal contribution)
 - Histological Transformation and Progression in Follicular Lymphoma: a Clonal Evolution Study. Kridel R\*, Chan FC\*, Mottok A, ... Gascoyne RD, Shah P. PLOS Medicine. 2016 Dec 13;13(12):e1002197. (\* denotes equal contribution)
 - Cell of origin of transformed follicular lymphoma. Kridel R,\* Mottok A,\* ... Scott DW, Gascoyne RD. Blood 2015 Oct 29;126(18):2118-27. (\* denotes equal contribution)
@@ -16,6 +17,7 @@ A full list of publications can be found [here](https://scholar.google.lu/citati
 
 ### Key review papers:
 
+- Pathogenesis of follicular lymphoma. Lackraj T, Goswami R, Kridel R. Best Practice & Research Clinical Haematology. 2017 [in press]
 - Can histologic transformation of follicular lymphoma be predicted and prevented? Kridel R, Sehn LH, Gascoyne RD. Blood. 2017 Jul 20;130(3):258-266.
 - Pathogenesis of follicular lymphoma. Kridel R, Sehn LH, Gascoyne RD. J Clin Invest. 2012 Oct 1;122(10):3424-31.
 - Prevention of Central Nervous System Relapse in Diffuse Large B-Cell Lymphoma. Kridel R, Dietrich PY. Lancet Oncol. 2011 Dec;12(13):1258-66.

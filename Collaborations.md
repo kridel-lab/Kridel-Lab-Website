@@ -8,11 +8,11 @@ layout: page
 - Translational research: Rob Laister, John Kuruvilla
 - Pathology: Jan Delabie, Rashmi Goswami
 - Clinical: Michael Crump, John Kuruvilla, Anca Prica, Vishal Kukreti
-- Dick lab
+- Scientific: John Dick lab
 
 ### National:
 
-- Department of Lymphoid Cancer Research, BC Cancer Agency, Vancouver
+- Steidl and Scott labs, Department of Lymphoid Cancer Research, BC Cancer Agency, Vancouver
 - Johnson lab, Jewish General Hospital, Montreal
 
 ### International:

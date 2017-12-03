@@ -3,4 +3,4 @@ title: Funding
 layout: page
 ---
 
-![](/img/Funding.jpg)
+![](/img/Funding.pdf)

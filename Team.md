@@ -21,8 +21,13 @@ Kit is a Research Technician and Lab Manager in our lab. She obtained her Bachel
 
 ---
 
-### Post-doctoral fellow
+### Post-doctoral fellows
 
 **Tracy Lackraj, PhD**
 
 Tracy came to us from Ryerson University, after very successful doctoral studies in microbiology. She first-authored several papers on the pathogenicity of diarrheagenic pathogens during her PhD. Tracy is currently applying her molecular biology skills to lymphoma.
+
+
+**Sleiman Bassim, PhD**
+
+Sleiman has had extensive training in molecular biology and computational biology in France, Canada and the US. His interests lie in statistical modeling of treatment outcome using multiomics datasets, and in the discovery of novel biomarkers and pathways associated with lymphoma relapse.

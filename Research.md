@@ -25,4 +25,4 @@ Clonal evolution is a fundamental property of how cancers evolve over time. We p
 
 **4. Translational research platform**
 
-We aim to provide a comprehensive genomic research platform for clinical trials, in collaboration with Drs. Kuruvilla and Laister. This includes profiling of circulating tumour DNA, plasma biomarkers and tissue biopsies. 
+We aim to provide a comprehensive genomic research platform for clinical trials. This includes profiling of circulating tumour DNA, plasma biomarkers and tissue biopsies. 

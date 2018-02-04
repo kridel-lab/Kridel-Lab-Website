@@ -6,4 +6,4 @@ output:
   html_document:
 ---
 
-[Click here to access the article](https://www.ryerson.ca/news-events/news/2018/01/the-personal-side-of-cancer-research/).
+["The personal side of cancer research"](https://www.ryerson.ca/news-events/news/2018/01/the-personal-side-of-cancer-research/).

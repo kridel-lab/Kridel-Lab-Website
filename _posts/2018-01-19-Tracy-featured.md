@@ -6,4 +6,4 @@ output:
   html_document:
 ---
 
-[Tracy is featured in Ryerson University Magazine](https://www.ryerson.ca/news-events/news/2018/01/the-personal-side-of-cancer-research/).
+[Click here to access the article](https://www.ryerson.ca/news-events/news/2018/01/the-personal-side-of-cancer-research/).

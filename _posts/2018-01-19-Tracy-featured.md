@@ -1,5 +1,5 @@
 ---
-title: Tracy features in Ryerson University Magazine
+title: Tracy featured in Ryerson University Magazine
 date: "Jan 19, 2018"
 layout: post
 output:

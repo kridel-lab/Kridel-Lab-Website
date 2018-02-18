@@ -1,5 +1,5 @@
 ---
-title: Our lab received funding from the Terry Fox Research Institute
+title: Our lab receives funding from the Terry Fox Research Institute
 date: "Feb 15, 2018"
 layout: post
 output:

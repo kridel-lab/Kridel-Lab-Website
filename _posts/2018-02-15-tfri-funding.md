@@ -6,5 +6,5 @@ output:
   html_document:
 ---
 
-We are extremeley humbled and honoured to receive generous funding from TFRI to pursue our follicular lymphoma studies. [Link to TFRI website](http://www.tfri.ca/en/dr-robert-kridel)
+We are extremeley humbled and honoured to receive generous funding from Terry Fox Research Institute to pursue our efforts to better understand molecular heterogeneity in follicular lymphoma. [Link to TFRI website](http://www.tfri.ca/en/dr-robert-kridel)
 

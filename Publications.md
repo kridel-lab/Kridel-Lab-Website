@@ -17,7 +17,7 @@ A full list of publications can be found [here](https://scholar.google.lu/citati
 
 ### Key review papers:
 
-- Pathogenesis of follicular lymphoma. Lackraj T, Goswami R, Kridel R. Best Practice & Research Clinical Haematology. 2017 [in press]
+- Pathogenesis of follicular lymphoma. Lackraj T, Goswami R, Kridel R. Best Practice & Research Clinical Haematology. 2018 Mar;31(1):2-14.
 - Can histologic transformation of follicular lymphoma be predicted and prevented? Kridel R, Sehn LH, Gascoyne RD. Blood. 2017 Jul 20;130(3):258-266.
 - Pathogenesis of follicular lymphoma. Kridel R, Sehn LH, Gascoyne RD. J Clin Invest. 2012 Oct 1;122(10):3424-31.
 - Prevention of Central Nervous System Relapse in Diffuse Large B-Cell Lymphoma. Kridel R, Dietrich PY. Lancet Oncol. 2011 Dec;12(13):1258-66.

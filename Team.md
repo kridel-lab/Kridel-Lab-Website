@@ -13,7 +13,11 @@ Robert is a Clinician-Scientist at the Princess Margaret Cancer Centre and an As
 
 ---
 
-### Research Technician
+### Research Technicians
+
+**Mehran Bakhtiari, MSc**
+
+Mehran is a Research Technician in our lab. He holds a MSc degree in Biological Sciences from Laurentian University. Mehran has extensive experience with managing large-scale projects, molecular biology and screening of primary tissue and serum samples. He oversees accrual, processing and inventory of primary patient samples in our lab.
 
 **Kit Tong, PhD**
 

@@ -3,11 +3,9 @@ title: Team
 layout: page
 ---
 
-<img align="centre" src="/img/Team.jpeg" height="150">
+<img align="centre" src="/img/Team.jpeg" height="300">
 
 ### Principal Investigator
-
-<img align="right" src="/img/Kridel,R_UHN3181_reduced size.jpg" height="150">
 
 **Robert Kridel, MD PhD**
 

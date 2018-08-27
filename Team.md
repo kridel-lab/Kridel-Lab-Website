@@ -3,7 +3,7 @@ title: Team
 layout: page
 ---
 
-<img align="center" src="/img/Team.jpeg" height="300">
+<img align="center" src="/img/Team.jpeg" height="400">
 
 ### Principal Investigator
 

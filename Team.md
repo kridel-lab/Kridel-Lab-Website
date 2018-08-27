@@ -3,6 +3,8 @@ title: Team
 layout: page
 ---
 
+<img align="centre" src="/img/Team.jpeg" height="150">
+
 ### Principal Investigator
 
 <img align="right" src="/img/Kridel,R_UHN3181_reduced size.jpg" height="150">
@@ -38,3 +40,19 @@ Tracy came to us from Ryerson University, after very successful doctoral studies
 **Anjali Silva, PhD**
 
 Anjali obtained her PhD in Bioinformatics from the University of Guelph. Her doctoral work was focused on model-based clustering techniques. Anjali also has experience working in several research facilities, conducting advanced analysis of sequencing, protein and microarray data.
+
+---
+
+### Student
+
+**Sharon Yoon, BSc**
+
+Sharon has joined the lab as our first MSc student after completing her Bachelor of Science from University of Toronto Scarborough. Sharon's research focuses on the identification of rational combination treatments to overcome resistance in B-cell lymphoma.
+
+---
+
+### Clinical Research Fellow
+
+**Lourdes Calvente, MD**
+
+Lourdes is a fully trained hematologist from Barcelona, Spain. She has recently completed a lymphoma fellowship at the Princess Margaret Cancer Centre and has joined the lab part-time. Lourdes focuses on outcome prediction in follicular lymphoma and relapsed lymphoid malignancies.

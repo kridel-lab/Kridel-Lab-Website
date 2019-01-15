@@ -7,6 +7,7 @@ A full list of publications can be found [here](https://scholar.google.lu/citati
 
 ### Key research papers:
 
+- Convergence of risk prediction models in follicular lymphoma. Silva A, et al. Haematologica. 2019 Jan 3. (epub ahead of print)
 - FOXP1 expression is a prognostic biomarker in follicular lymphoma treated with rituximab-containing regimens. Mottok A,\* Jurinovic V,\* ... Hoster E,\* Weigert O,\* Kridel R.\* Blood. 2018 Jan 11;131(2):226-235.  (\* denotes equal contribution)
 - Diffuse large B-cell lymphoma with testicular involvement: Outcome and risk of CNS relapse in the rituximab era. Kridel R\*, Telio D\*, ... Savage KJ. British Journal of Haematology. 2017 Jan;176(2):210-221. (\* denotes equal contribution)
 - Histological Transformation and Progression in Follicular Lymphoma: a Clonal Evolution Study. Kridel R\*, Chan FC\*, Mottok A, ... Gascoyne RD, Shah P. PLOS Medicine. 2016 Dec 13;13(12):e1002197. (\* denotes equal contribution)

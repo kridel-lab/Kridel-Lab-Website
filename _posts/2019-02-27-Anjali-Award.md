@@ -6,6 +6,5 @@ output:
   html_document:
 ---
 
-Anjali wins the Distinguished Dissertation Award of the Classification Society. Way to go!
-
-https://tcs.wildapricot.org/Dissertation-Award
+Anjali wins the Distinguished Dissertation Award of the ]Classification Society](
+https://tcs.wildapricot.org/Dissertation-Award). Way to go!

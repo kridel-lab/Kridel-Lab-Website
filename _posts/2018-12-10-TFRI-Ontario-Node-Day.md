@@ -1,5 +1,5 @@
 ---
-title: TFRI Ontario Node Day.
+title: TFRI Ontario Node Day
 date: "Dec 10, 2018"
 layout: post
 output:

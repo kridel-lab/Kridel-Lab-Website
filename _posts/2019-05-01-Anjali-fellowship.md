@@ -1,5 +1,5 @@
 ---
-title: Anjali wins an Award
+title: Anjali secures a fellowship
 date: "May 1, 2019"
 layout: post
 output:

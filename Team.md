@@ -13,23 +13,31 @@ Robert is a Clinician-Scientist at the Princess Margaret Cancer Centre and an As
 
 ---
 
+### Scientific Associate
+
+**Kit Tong, PhD**
+
+Kit is a Scientific Associate and Lab Manager in our lab. She obtained her Bachelor of Science Degree from the University of Saskatchewan, and her PhD from the University of Tsukuba in Japan. Kit has extensive experience with cell biology, animal models, molecular biology and biochemistry. She won several awards during her training and has first- or co-authored over 40 publications.
+
+---
+
+### Staff Computational Biologist
+
+**Karin Isaev, MSc**
+
+Karin is a Staff Computational Biologist, having previously obtained her MSc degree from the University of Toronto. Karin is trained in biology and statistics and is passionate about applying bioinformatics to improve patient care.
+
+---
+
 ### Research Technicians
 
 **Mehran Bakhtiari, MSc**
 
 Mehran is a Research Technician in our lab. He holds a MSc degree in Biological Sciences from Laurentian University. Mehran has extensive experience with managing large-scale projects, molecular biology and screening of primary tissue and serum samples. He oversees accrual, processing and inventory of primary patient samples in our lab.
 
-**Kit Tong, PhD**
-
-Kit is a Research Technician and Lab Manager in our lab. She obtained her Bachelor of Science Degree from the University of Saskatchewan, and her PhD from the University of Tsukuba in Japan. Kit has extensive experience with cell biology, animal models, molecular biology and biochemistry. She won several awards during her training and has first- or co-authored over 40 publications.
-
 ---
 
 ### Post-doctoral fellows
-
-**Sleiman Bassim, PhD**
-
-Sleiman has had extensive training in molecular biology and computational biology in France, Canada and the US. His interests lie in statistical modeling of treatment outcome using multiomics datasets, and in the discovery of novel biomarkers and pathways associated with lymphoma relapse.
 
 **Tracy Lackraj, PhD**
 
@@ -41,7 +49,11 @@ Anjali obtained her PhD in Bioinformatics from the University of Guelph. Her doc
 
 ---
 
-### Student
+### Students
+
+**Jesse Joynt, BSc**
+
+Jesse has recently completed his BSc at Queen's University in Kingston. His project aims to uncover novel epigenetic vulnerabilities using CRISPR-Cas9 screens.
 
 **Sharon Yoon, BSc**
 

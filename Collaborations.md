@@ -12,7 +12,7 @@ layout: page
 
 ### National:
 
-- Steidl and Scott labs, Department of Lymphoid Cancer Research, BC Cancer Agency, Vancouver
+- Steidl and Scott labs, BC Cancer, Vancouver
 - Morin lab, Simon Fraser University, Burnaby
 - Johnson lab, Jewish General Hospital, Montreal
 

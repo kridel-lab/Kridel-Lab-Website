@@ -8,7 +8,7 @@ layout: page
 - Translational research: Rob Laister, John Kuruvilla, Mark Minden
 - Pathology: Jan Delabie, Rosemarie Tremblay-LeMay
 - Clinical: Michael Crump, John Kuruvilla, Anca Prica, Vishal Kukreti
-- Scientific: John Dick, Sagi Abelson, Hansen He, Trevor Pugh, Troy Ketela
+- Scientific: John Dick, Sagi Abelson, Hansen He, Trevor Pugh, Troy Ketela, Brian Raught
 
 ### National:
 
@@ -20,3 +20,5 @@ layout: page
 
 - Oricchio lab, EPFL, Lausanne, Switzerland
 - Weigert lab, LMU, Munich, Germany
+- Gandhi lab, University of Queensland, Brisbane, Australia
+- ECOG-ACRIN (Andy Evens, Brad Kahl, Fangxin Hong)

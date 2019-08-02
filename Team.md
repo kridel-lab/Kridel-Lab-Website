@@ -29,7 +29,7 @@ Karin is a Staff Computational Biologist, having previously obtained her MSc deg
 
 ---
 
-### Research Technicians
+### Research Technician
 
 **Mehran Bakhtiari, MSc**
 

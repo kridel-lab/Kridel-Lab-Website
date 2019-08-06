@@ -45,7 +45,7 @@ Tracy came to us from Ryerson University, after very successful doctoral studies
 
 **Anjali Silva, PhD**
 
-Anjali obtained her PhD in bioinformatics, with a focus on developing model-based clustering techniques for biological data. Anjali is applying unsupervised classification techniques to dissect the molecular heterogeneity of lymphoma. The goal of her project is to identify biologically defined molecular subtypes that may open new avenues for tailoring treatments. 
+Anjali obtained her PhD in bioinformatics, with a focus on developing model-based clustering techniques for biological data. Anjali is applying unsupervised classification techniques to dissect the molecular heterogeneity of lymphoma. The goal of her project is to identify biologically defined molecular subtypes that may open new avenues for tailoring therapy. 
 
 ---
 

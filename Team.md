@@ -43,6 +43,10 @@ Mehran is a Research Technician in our lab. He holds a MSc degree in Biological 
 
 Tracy came to us from Ryerson University, after very successful doctoral studies in microbiology. She first-authored several papers on the pathogenicity of diarrheagenic pathogens during her PhD. Tracy is currently applying her molecular biology skills to lymphoma.
 
+**Michael He, PhD**
+
+Michael has recently joined the lab after completing his PhD in Melbourne at the Peter Mac. He comes to us with great exertise in CRIPR-Cas9 screens that he is no applying to lymphoma.
+
 **Anjali Silva, PhD**
 
 Anjali obtained her PhD in bioinformatics, with a focus on developing model-based clustering techniques for biological data. Anjali is applying unsupervised classification techniques to dissect the molecular heterogeneity of lymphoma. The goal of her project is to identify biologically defined molecular subtypes that may open new avenues for tailoring therapy. 
@@ -53,7 +57,7 @@ Anjali obtained her PhD in bioinformatics, with a focus on developing model-base
 
 **Jesse Joynt, BSc**
 
-Jesse has recently completed his BSc at Queen's University in Kingston. His project aims to uncover novel epigenetic vulnerabilities using CRISPR-Cas9 screens.
+Jesse has recently completed his BSc at Queen's University in Kingston. His project aims to uncover novel epigenetic vulnerabilities identified from CRISPR-Cas9 screens.
 
 **Sharon Yoon, BSc**
 
@@ -63,6 +67,6 @@ Sharon has joined the lab as our first MSc student after completing her Bachelor
 
 ### Clinical Research Fellow
 
-**Lourdes Calvente, MD**
+**Ho-Young Yhim, MD**
 
-Lourdes is a fully trained hematologist from Barcelona, Spain. She has recently completed a lymphoma fellowship at the Princess Margaret Cancer Centre and has joined the lab part-time. Lourdes focuses on outcome prediction in follicular lymphoma and relapsed lymphoid malignancies.
+Ho-Young is a fully trained hematologist from South Korea. He is spending a year in Toronto and has joined the lab to learn about translational lymphoma research while continuing his studies to understand how FDG-PET scans allow to refine prognosis in lymphoma.

@@ -37,6 +37,14 @@ Mehran is a Research Technician in our lab. He holds a MSc degree in Biological 
 
 ---
 
+### Clinical Research Coordinator
+
+**Michael Hong, MSc**
+
+Michael is a Clinical Research Coordinator who facilitates consenting of patients for translational research studies and liaises with the pathology department for all tissue requests.
+
+---
+
 ### Post-doctoral fellows
 
 **Tracy Lackraj, PhD**

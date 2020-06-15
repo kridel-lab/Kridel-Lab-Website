@@ -8,4 +8,4 @@ output:
 
 [Validation of the RHL30 digital gene expression assay as a prognostic biomarker for relapsed Hodgkin lymphoma](https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.16777). Calvente L, Tremblay-LeMay R, ... Sabatini P, Kridel R. Br J Haematol, 2020.
 
-This is 2018 our update on the pathogenesis of follicular lymphoma.
+In this paper, we were able to validate the RHL30 gene expression assay in a series of patients with relapsed Hodgkin lymphoma who were treated at Princess Margaret Cancer Centre. The RHL30 assay allows to identify patients with diverging outcomes post-autologous stem cell transplantation.

@@ -7,7 +7,7 @@ layout: page
 
 - Translational research: Rob Laister, John Kuruvilla, Mark Minden
 - Pathology: Jan Delabie, Rosemarie Tremblay-LeMay
-- Clinical: Michael Crump, John Kuruvilla, Anca Prica, Vishal Kukreti
+- Clinical: Sita Bhella, Michael Crump, Vishal Kukreti, John Kuruvilla, Anca Prica, 
 - Scientific: John Dick, Sagi Abelson, Hansen He, Trevor Pugh, Troy Ketela, Brian Raught
 
 ### National:

@@ -1,6 +1,6 @@
 ---
 title: Paper published in Haematologica
-date: "Aug 3, 2020"
+date: "Aug 13, 2020"
 layout: post
 output:
   html_document:

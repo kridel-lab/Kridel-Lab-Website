@@ -7,8 +7,9 @@ A full list of publications can be found [here](https://scholar.google.lu/citati
 
 ### Key research papers:
 
-- Molecular Attributes Underlying Central Nervous System and Systemic Relapse in Diffuse Large B-cell Lymphoma. Isaev K, ... Scott DW, Kridel R. Haematologica. 2020 [Epub ahead of print].
-- Validation of the RHL30 digital gene expression assay as a prognostic biomarker for relapsed Hodgkin lymphoma. Calvente L, ... Kridel R. Br J Haematol. 2020 Jun 8 [Epub ahead of print].
+- A risk model for relapsed/refractory aggressive NHL integrating clinical risk factors and pre-transplant Deauville score. Yhim HY, Eshet Y, Metser U, Lim CH, ... Kuruvilla J, Kridel R. Blood Advances. 2020 Nov 24;4(22):5762-5771.
+- Validation of the RHL30 digital gene expression assay as a prognostic biomarker for relapsed Hodgkin lymphoma. Calvente L, ... Kridel R. Br J Haematol. Sep;190(6):864-868.
+- Molecular Attributes Underlying Central Nervous System and Systemic Relapse in Diffuse Large B-cell Lymphoma. Isaev K, ... Scott DW, Kridel R. Haematologica. 2020 Aug 13;haematol.2020.255950.
 - Convergence of risk prediction models in follicular lymphoma. Silva A, ... Kridel R. Haematologica. 2019 Jun;104(6):e252-e255.
 - FOXP1 expression is a prognostic biomarker in follicular lymphoma treated with rituximab-containing regimens. Mottok A,\* Jurinovic V,\* ... Hoster E,\* Weigert O,\* Kridel R.\* Blood. 2018 Jan 11;131(2):226-235.  (\* denotes equal contribution)
 - Diffuse large B-cell lymphoma with testicular involvement: Outcome and risk of CNS relapse in the rituximab era. Kridel R\*, Telio D\*, ... Savage KJ. British Journal of Haematology. 2017 Jan;176(2):210-221. (\* denotes equal contribution)

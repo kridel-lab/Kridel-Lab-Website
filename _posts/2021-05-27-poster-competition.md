@@ -1,5 +1,5 @@
 ---
-title: The lab is growing
+title: Jesse wins an award
 date: "May 27, 2021"
 layout: post
 output:

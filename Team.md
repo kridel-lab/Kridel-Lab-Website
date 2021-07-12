@@ -21,7 +21,7 @@ Kit is a Scientific Associate and Lab Manager in our lab. She obtained her Bache
 
 ---
 
-### Staff Computational Biologist
+### Staff Computational Biologists
 
 **Karin Isaev, MSc**
 

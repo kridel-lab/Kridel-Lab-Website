@@ -27,6 +27,10 @@ Kit is a Scientific Associate and Lab Manager in our lab. She obtained her Bache
 
 Karin is a Staff Computational Biologist, having previously obtained her MSc degree from the University of Toronto. Karin is trained in biology and statistics and is passionate about applying bioinformatics to improve patient care.
 
+**Ting Liu, PhD**
+
+Ting is a Senior Bioinformatics Analyst, having previously worked as a Senior Bioinformatician at Sick Kids her MSc degree from the University of Toronto. Ting has extensive experience with large-scale data analysis and genome biology.
+
 ---
 
 ### Research Technician
@@ -61,20 +65,17 @@ Anjali obtained her PhD in bioinformatics, with a focus on developing model-base
 
 ---
 
-### Students
+### MSc student
 
 **Jesse Joynt, BSc**
 
 Jesse has recently completed his BSc at Queen's University in Kingston. His project aims to uncover novel epigenetic vulnerabilities identified from CRISPR-Cas9 screens.
 
-**Sharon Yoon, BSc**
-
-Sharon has joined the lab as our first MSc student after completing her Bachelor of Science from University of Toronto Scarborough. Sharon's research focuses on the identification of rational combination treatments to overcome resistance in B-cell lymphoma.
-
 ---
 
-### Clinical Research Fellow
+### Summer students
 
-**Ho-Young Yhim, MD**
+**Gabrielle Persad**
 
-Ho-Young is a fully trained hematologist from South Korea. He is spending a year in Toronto and has joined the lab to learn about translational lymphoma research while continuing his studies to understand how FDG-PET scans allow to refine prognosis in lymphoma.
+**Victoria Shelton**
+

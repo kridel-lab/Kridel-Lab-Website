@@ -7,6 +7,7 @@ A full list of publications can be found [here](https://scholar.google.lu/citati
 
 ### Key research papers:
 
+-	Combined EZH2 inhibition and Ikaros degradation leads to enhanced anti-tumor activity in diffuse large B-cell lymphoma. Tong K, Yoon S, Isaev K, ... Kridel R. Clinical Cancer Research. 2021.
 - A risk model for relapsed/refractory aggressive NHL integrating clinical risk factors and pre-transplant Deauville score. Yhim HY, Eshet Y, Metser U, Lim CH, ... Kuruvilla J, Kridel R. Blood Advances. 2020 Nov 24;4(22):5762-5771.
 - Validation of the RHL30 digital gene expression assay as a prognostic biomarker for relapsed Hodgkin lymphoma. Calvente L, ... Kridel R. Br J Haematol. Sep;190(6):864-868.
 - Molecular Attributes Underlying Central Nervous System and Systemic Relapse in Diffuse Large B-cell Lymphoma. Isaev K, ... Scott DW, Kridel R. Haematologica. 2020 Aug 13;haematol.2020.255950.
@@ -21,6 +22,8 @@ A full list of publications can be found [here](https://scholar.google.lu/citati
 
 ### Key review papers:
 
+- Treatment resistance in diffuse large B-cell lymphoma. He MY, Kridel R. Leukemia. 2021.
+- Predicting early progression in follicular lymphoma. Liu Q, Silva A, Kridel R. Annals of Lymphoma. 2021 Jun;5:11.
 - Pathogenesis of follicular lymphoma. Lackraj T, Goswami R, Kridel R. Best Practice & Research Clinical Haematology. 2018 Mar;31(1):2-14.
 - Can histologic transformation of follicular lymphoma be predicted and prevented? Kridel R, Sehn LH, Gascoyne RD. Blood. 2017 Jul 20;130(3):258-266.
 - Pathogenesis of follicular lymphoma. Kridel R, Sehn LH, Gascoyne RD. J Clin Invest. 2012 Oct 1;122(10):3424-31.

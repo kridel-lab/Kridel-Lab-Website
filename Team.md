@@ -29,7 +29,7 @@ Karin is a Staff Computational Biologist, having previously obtained her MSc deg
 
 **Ting Liu, PhD**
 
-Ting is a Senior Bioinformatics Analyst, having previously worked as a Senior Bioinformatician at Sick Kids her MSc degree from the University of Toronto. Ting has extensive experience with large-scale data analysis and genome biology.
+Ting is a Senior Bioinformatics Analyst, having previously worked as a bioinformatics staff both at SickKids and the University of Toronto. Ting has extensive experience with large-scale data analysis and genome biology.
 
 ---
 

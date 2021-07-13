@@ -57,7 +57,7 @@ Tracy came to us from Ryerson University, after very successful doctoral studies
 
 **Michael He, PhD**
 
-Michael has recently joined the lab after completing his PhD in Melbourne at the Peter Mac. He comes to us with great exertise in CRIPR-Cas9 screens that he is no applying to lymphoma.
+Michael has recently joined the lab after completing his PhD in Melbourne at the Peter Mac. He comes to us with great expertise in CRIPR-Cas9 screens that he is now applying to lymphoma.
 
 **Anjali Silva, PhD**
 

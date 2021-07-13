@@ -57,7 +57,11 @@ Tracy came to us from Ryerson University, after very successful doctoral studies
 
 **Michael He, PhD**
 
-Michael has recently joined the lab after completing his PhD in Melbourne at the Peter Mac. He comes to us with great expertise in CRIPR-Cas9 screens that he is now applying to lymphoma.
+Michael completed his BSc (Hons) and PhD training at the University of Melbourne and the Peter MacCallum Cancer Centre, Australia; after obtained a BPharm (Hons) at Monash University, Australia. During his PhD, he developed a novel 3D CRISPR screening platform to understand blood endothelial cell response to cancer therapy, which further revealed epigenetic interactions with anti-angiogenesis for understanding of drug resistance. This has resulted in publication of several review, technical and research articles as well as grant applications. Michael’s current research is on overcoming resistance to epigenetic therapy and defining precise medicine/novel therapeutics in B-cell lymphoma using multi-omics including CRISPR–Cas9 gene-editing technology. The ultimate goal is to uncover strategies for more effective therapy finally towards improved patient outcomes.
+
+Research interests: Lymphoma Treatment, Drug Resistance, Novel Therapeutics, Cancer Epigenetics, Cancer Biology, Translational Research
+
+Expertise: Functional Genomics, Drug Response, Genetic Screening, Signaling Transduction, Cell Biology, Assay Development, Drug Development, Epigenetic Therapy, Anti-Angiogenic Therapy
 
 **Anjali Silva, PhD**
 

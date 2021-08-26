@@ -19,5 +19,6 @@ layout: page
 ### Princess Margaret Clinical Practice Guidelines:
 
 - [Indolent non-Hodgkin Lymphoma](https://www.uhn.ca/PrincessMargaret/Health_Professionals/Programs_Departments/Documents/CPG_Lymphoma_IndolentLymphomas.pdf)
-- [Aggressive non-Hodgkin Lymphoma](https://www.uhn.ca/PrincessMargaret/Health_Professionals/Programs_Departments/Lymphoma_Myeloma/Documents/CPG_Lymphoma_AggressiveLymphoma.pdf)
+- [Aggressive non-Hodgkin Lymphoma](https://www.uhn.ca/PrincessMargaret/Health_Professionals/Programs_Departments/Documents/CPG_Lymphoma_AggressiveLymphoma.pdf)
+- [Primary CNS Lymphoma](https://www.uhn.ca/PrincessMargaret/Health_Professionals/Programs_Departments/Documents/CPG_CNS_Lymphoma.pdf)
 - [Hodgkin Lymphoma](https://www.uhn.ca/PrincessMargaret/Health_Professionals/Programs_Departments/Documents/CPG_Lymphoma_HodgkinLymphoma.pdf)

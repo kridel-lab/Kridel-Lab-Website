@@ -21,11 +21,7 @@ Kit is a Scientific Associate and Lab Manager in our lab. She obtained her Bache
 
 ---
 
-### Staff Computational Biologists
-
-**Karin Isaev, MSc**
-
-Karin is a Staff Computational Biologist, having previously obtained her MSc degree from the University of Toronto. Karin is trained in biology and statistics and is passionate about applying bioinformatics to improve patient care.
+### Staff Computational Biologist
 
 **Ting Liu, PhD**
 
@@ -49,11 +45,7 @@ Michael is a Clinical Research Coordinator who facilitates consenting of patient
 
 ---
 
-### Post-doctoral fellows
-
-**Tracy Lackraj, PhD**
-
-Tracy came to us from Ryerson University, after very successful doctoral studies in microbiology. She first-authored several papers on the pathogenicity of diarrheagenic pathogens during her PhD. Tracy is currently applying her molecular biology skills to lymphoma.
+### Post-doctoral fellow
 
 **Michael He, PhD**
 
@@ -63,23 +55,9 @@ Research interests: Lymphoma Treatment, Drug Resistance, Novel Therapeutics, Can
 
 Expertise: Functional Genomics, Drug Response, Genetic Screening, Signaling Transduction, Cell Biology, Assay Development, Drug Development, Epigenetic Therapy, Anti-Angiogenic Therapy
 
-**Anjali Silva, PhD**
-
-Anjali obtained her PhD in bioinformatics, with a focus on developing model-based clustering techniques for biological data. Anjali is applying unsupervised classification techniques to dissect the molecular heterogeneity of lymphoma. The goal of her project is to identify biologically defined molecular subtypes that may open new avenues for tailoring therapy. 
-
 ---
 
-### MSc student
-
-**Jesse Joynt, BSc**
-
-Jesse has recently completed his BSc at Queen's University in Kingston. His project aims to uncover novel epigenetic vulnerabilities identified from CRISPR-Cas9 screens.
-
----
-
-### Summer students
-
-**Gabrielle Persad**
+### Summer student
 
 **Victoria Shelton**
 

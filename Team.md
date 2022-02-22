@@ -69,7 +69,7 @@ Expertise: Functional Genomics, Drug Response, Genetic Screening, Signaling Tran
 
 **Noorhan Ghanem, MSc**
 
-Noorhan graduated with a Bachelor’s in Biochemistry at \ Beirut Arab University and obtained her Master’s of Science in Biochemistry and Molecular Genetics at the American University of Beirut in Lebanon. She was working on investigating therapeutic opportunities in treating colorectal cancer by targeting the pentose phosphate pathway and sensitizing resistant cells to 5-Fluorouracil. She is currently pursuing her doctoral studies at the University of Toronto in the Dept. of Medical Biophysics, working under the co-supervision of Dr. Robert Kridel and Dr. Aaron Schimmer. Noorhan’s current research interest focuses on deciphering treatment resistance in Adult T cell Leukemia-Lymphoma (ATLL), a rare type of virally induced lymphoma with a severe and dismal prognosis.
+Noorhan graduated with a Bachelor’s in Biochemistry at Beirut Arab University and obtained her Master’s of Science in Biochemistry and Molecular Genetics at the American University of Beirut in Lebanon. She was working on investigating therapeutic opportunities in treating colorectal cancer by targeting the pentose phosphate pathway and sensitizing resistant cells to 5-Fluorouracil. She is currently pursuing her doctoral studies at the University of Toronto in the Dept. of Medical Biophysics, working under the co-supervision of Dr. Robert Kridel and Dr. Aaron Schimmer. Noorhan’s current research interest focuses on deciphering treatment resistance in Adult T cell Leukemia-Lymphoma (ATLL), a rare type of virally induced lymphoma with a severe and dismal prognosis.
 
 ---
 

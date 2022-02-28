@@ -5,11 +5,12 @@ layout: page
 
 ### Overall goal
 
-Our research is driven by the observation that the outcomes of patients diagnosed with Non-Hodgkin or Hodgkin Lymphoma are extremely variable. Certain patients are seemingly cured, or enjoy very long remissions, while other patients experience disease relapse or refractoriness. By and large, we are currently unable to offer treatment that targets the therapeutic vulnerabilities that underlie a given patient's lymphoma. We would like to change this. We postulate that the comprehensive deciphering of the biological underpinnings of lymphoma will lead to improved therapies for lymphoma patients.
+Our research is driven by the observation that the outcomes of lymphoma patients are extremely variable. Certain patients are seemingly cured, or enjoy very long remissions, while other patients experience disease relapse or refractoriness. By and large, we are currently unable to offer treatment that targets the therapeutic vulnerabilities that underlie a given patient's lymphoma. We would like to change this. We postulate that the comprehensive deciphering of the biological underpinnings of lymphoma will lead to improved therapies for lymphoma patients.
 
 In order to achieve this goal, we are applying state-of-the-art genomic techniques to primary patient samples to unravel tumour heterogeneity and to develop novel, innovative biomarkers to predict outcome in lymphoma. Furthermore, we are leveraging novel findings from discovery platforms to elucidate mechanisms of lymphoma pathogenesis, tumour evolution and treatment resistance.
 
 Our ultimate goal is to improve patient outcomes through a better understanding of the diversity of responses to treatment and by tailoring therapy to each individual patient.
+
 
 <img align="centre" src="/img/2017-07-23 Website Figure Research.png" height="200">
 

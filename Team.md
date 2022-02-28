@@ -49,7 +49,7 @@ Michael is a Clinical Research Coordinator who facilitates consenting of patient
 
 **Rajesh Detroja, PhD**
 
-Rajesh completed his Ph.D. studies at Bar-Ilan University, Israel. During his Ph.D., he developed a novel fast, and accurate tool for identifying known human chimeric sequences from high-throughput sequencing data, which was further used to study the expression of recurrent chimeric RNAs in Rheumatoid Arthritis patients. This has resulted in the publication of several research articles. Rajesh's current research is to study multi-omics profiling of B-Cell lymphoma and circular tumor DNA using Next-Generation Sequencing (NGS) data analysis. The ultimate goal is to classify the types of lymphomas for effective diagnosis and therapy towards patient outcomes.
+Rajesh completed his Ph.D. studies at Bar-Ilan University, Israel, where he developed a novel fast, and an accurate tool called ChiTaH to identify known human chimeric sequences from high-throughput sequencing data. ChiTaH was later used to study the expression of recurrent chimeric RNAs in Rheumatoid Arthritis patients. Rajesh is interested in studying the multi-omics of cancer by applying bioinformatics and machine learning technologies. His current research includes the study of multi-omics profiling of B-Cell lymphoma and circular tumor DNA using Next-Generation Sequencing data analysis. This will help classify the types of lymphomas for effective diagnosis and treatment.
 
 Research interests: Cancer Genomics, Transcriptomics, Bioinformatics, Machine Learning, Translational Research
 

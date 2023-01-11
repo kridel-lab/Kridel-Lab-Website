@@ -21,11 +21,13 @@ Kit is a Scientific Associate and Lab Manager in our lab. She obtained her Bache
 
 ---
 
-### Staff Computational Biologist
+### Staff Computational Biologists
 
 **Ting Liu, PhD**
 
 Ting is a Senior Bioinformatics Analyst, having previously worked as a bioinformatics staff both at SickKids and the University of Toronto. Ting has extensive experience with large-scale data analysis and genome biology.
+
+**Victoria Shelton, MSc**
 
 ---
 
@@ -42,6 +44,14 @@ Mehran is a Research Technician in our lab. He holds a MSc degree in Biological 
 **Michael Hong, MSc**
 
 Michael is a Clinical Research Coordinator who facilitates consenting of patients for translational research studies and liaises with the pathology department for all tissue requests.
+
+---
+
+### Clinical and Research Fellow
+
+**Tomohiro Aoki, MD PhD**
+
+Tomohiro is a Clinical Research Fellow at the Princess Margaret Cancer Centre. He trained in hematology and oncology in Japan. From his front-line experience as a hematologist and oncologist, he felt a strong desire to pursue translational research to improve patient survival for refractory lymphoma patients. Then, he obtained PhD at Nagoya University in Japan and moved to Vancouver where he learned cutting-edge translational research skills. The central focus of his research is to understand how interactions between immune cells in the tumor microenvironment and tumor cells regulate the development and treatment resistance of lymphoid cancers. The ultimate research goal is to discover biomarkers and novel treatment targets.
 
 ---
 
@@ -67,13 +77,8 @@ Expertise: Functional Genomics, Drug Response, Genetic Screening, Signaling Tran
 
 ### Graduate student
 
+**Ioana Gavriliuc**
+
 **Noorhan Ghanem, MSc**
 
-Noorhan graduated with a Bachelor’s in Biochemistry at Beirut Arab University and obtained her Master’s of Science in Biochemistry and Molecular Genetics at the American University of Beirut in Lebanon. She was working on investigating therapeutic opportunities in treating colorectal cancer by targeting the pentose phosphate pathway and sensitizing resistant cells to 5-Fluorouracil. She is currently pursuing her doctoral studies at the University of Toronto in the Dept. of Medical Biophysics, working under the co-supervision of Dr. Robert Kridel and Dr. Aaron Schimmer. Noorhan’s current research interest focuses on deciphering treatment resistance in Adult T cell Leukemia-Lymphoma (ATLL), a rare type of virally induced lymphoma with a severe and dismal prognosis.
-
----
-
-### Summer student
-
-**Victoria Shelton**
-
+Noorhan graduated with a Bachelor’s in Biochemistry at Beirut Arab University and obtained her Master’s of Science in Biochemistry and Molecular Genetics at the American University of Beirut in Lebanon. She was working on investigating therapeutic opportunities in treating colorectal cancer by targeting the pentose phosphate pathway and sensitizing resistant cells to 5-Fluorouracil. She is currently pursuing her doctoral studies at the University of Toronto in the Dept. of Medical Biophysics, working under the co-supervision of Dr. Robert Kridel and Dr. Aaron Schimmer. Noorhan’s current research interest focuses on deciphering treatment resistance in Adult T cell Leukemia-Lymphoma (ATLL), a rare type of virally induced lymphoma with a severe and dismal prognosis

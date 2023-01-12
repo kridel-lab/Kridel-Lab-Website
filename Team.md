@@ -61,23 +61,17 @@ Tomohiro is a Clinical Research Fellow at the Princess Margaret Cancer Centre. H
 
 Rajesh completed his Ph.D. studies at Bar-Ilan University, Israel, where he developed a novel fast, and an accurate tool called ChiTaH to identify known human chimeric sequences from high-throughput sequencing data. ChiTaH was later used to study the expression of recurrent chimeric RNAs in Rheumatoid Arthritis patients. Rajesh is interested in studying the multi-omics of cancer by applying bioinformatics and machine learning technologies. His current research includes the study of multi-omics profiling of B-Cell lymphoma and circular tumor DNA using Next-Generation Sequencing data analysis. This will help classify the types of lymphomas for effective diagnosis and treatment.
 
-Research interests: Cancer Genomics, Transcriptomics, Bioinformatics, Machine Learning, Translational Research
-
-Expertise: Cancer Genomics, Multi-omics Data Analysis, Clinical Statistics
-
 **Michael He, PhD**
 
 Michael completed his BSc (Hons) and PhD training at the University of Melbourne and the Peter MacCallum Cancer Centre, Australia; after obtained a BPharm (Hons) at Monash University, Australia. During his PhD, he developed a novel 3D CRISPR screening platform to understand blood endothelial cell response to cancer therapy, which further revealed epigenetic interactions with anti-angiogenesis for understanding of drug resistance. This has resulted in publication of several review, technical and research articles as well as grant applications. Michael’s current research is on overcoming resistance to epigenetic therapy and defining precise medicine/novel therapeutics in B-cell lymphoma using multi-omics including CRISPR–Cas9 gene-editing technology. The ultimate goal is to uncover strategies for more effective therapy finally towards improved patient outcomes.
-
-Research interests: Lymphoma Treatment, Drug Resistance, Novel Therapeutics, Cancer Epigenetics, Cancer Biology, Translational Research
-
-Expertise: Functional Genomics, Drug Response, Genetic Screening, Signaling Transduction, Cell Biology, Assay Development, Drug Development, Epigenetic Therapy, Anti-Angiogenic Therapy
 
 ---
 
 ### Graduate student
 
 **Ioana Gavriliuc**
+
+Ioana graduated with a Bachelor’s in Biomedicine at Karolinska Institutet in Stockholm, Sweden. For her thesis, she was working on single-cell RNA-sequencing of human neuroblastoma bone marrow samples, analyzing the transcriptomic differences within the metastatic and non-metastatic tumour microenvironment. She is currently pursuing her Master’s degree at the University of Toronto in the Institute of Medical Sciences, working under the supervision of Dr. Robert Kridel. Apart from her passion for oncological and immunological studies, she is working on developing her bioinformatical skills.
 
 **Noorhan Ghanem, MSc**
 

@@ -27,7 +27,9 @@ Kit is a Scientific Associate and Lab Manager in our lab. She obtained her Bache
 
 Ting is a Senior Bioinformatics Analyst, having previously worked as a bioinformatics staff both at SickKids and the University of Toronto. Ting has extensive experience with large-scale data analysis and genome biology.
 
-**Victoria Shelton, MSc**
+**Victoria Shelton, MHSc, BSc (Hons)**
+
+Victoria is a Junior Bioinformatic & Data Analyst, and a graduate of the MHSc Medical Genomics program at the University of Toronto. Her primary focus has been the investigation of genetic biomarkers of follicular lymphoma. She recently presented this work at the 64th American Society of Hematology Annual Meeting and Exposition, and was honoured to receive an ASH Abstract Achievement Award.
 
 ---
 

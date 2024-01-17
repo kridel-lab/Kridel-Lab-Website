@@ -1,9 +1,9 @@
 ---
 title: The lab is growing
-date: "Jan 3, 2023"
+date: "April 1, 2023"
 layout: post
 output:
   html_document:
 ---
 
-Ioana Gavriliuc joins our group as a MSc student. Welcome Ioana!
+Mohamed joins our group as a BSc student. Welcome Mohamed!

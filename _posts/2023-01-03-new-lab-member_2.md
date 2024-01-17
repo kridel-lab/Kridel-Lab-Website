@@ -6,4 +6,4 @@ output:
   html_document:
 ---
 
-Mohamed joins our group as a BSc student. Welcome Mohamed!
+Mohamed joins our group as a PhD student. Welcome Mohamed!

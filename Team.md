@@ -69,12 +69,15 @@ Michael completed his BSc (Hons) and PhD training at the University of Melbourne
 
 ---
 
-### Graduate student
-
-**Ioana Gavriliuc**
-
-Ioana graduated with a Bachelor’s in Biomedicine at Karolinska Institutet in Stockholm, Sweden. For her thesis, she was working on single-cell RNA-sequencing of human neuroblastoma bone marrow samples, analyzing the transcriptomic differences within the metastatic and non-metastatic tumour microenvironment. She is currently pursuing her Master’s degree at the University of Toronto in the Institute of Medical Sciences, working under the supervision of Dr. Robert Kridel. Apart from her passion for oncological and immunological studies, she is working on developing her bioinformatical skills.
+### Graduate students
 
 **Noorhan Ghanem, MSc**
 
 Noorhan graduated with a Bachelor’s in Biochemistry at Beirut Arab University and obtained her Master’s of Science in Biochemistry and Molecular Genetics at the American University of Beirut in Lebanon. She was working on investigating therapeutic opportunities in treating colorectal cancer by targeting the pentose phosphate pathway and sensitizing resistant cells to 5-Fluorouracil. She is currently pursuing her doctoral studies at the University of Toronto in the Dept. of Medical Biophysics, working under the co-supervision of Dr. Robert Kridel and Dr. Aaron Schimmer. Noorhan’s current research interest focuses on deciphering treatment resistance in Adult T cell Leukemia-Lymphoma (ATLL), a rare type of virally induced lymphoma with a severe and dismal prognosis
+
+**Mohamed Alias**
+
+
+**Davidson Zhao**
+
+Davidson graduated with a Bachelor’s in Laboratory Medicine and Pathobiology at the University of Toronto. He was working on the identification of molecular genetic aberrations with prognostic relevance in acute myeloid leukemia. He is currently pursuing his graduate studies in the Department of Medical Biophysics under the co-supervision of Dr. Robert Kridel and Dr. Federico Gaiti. Davidson’s current research interest focuses on deciphering the cell-cell interactions within the lymphoma tumour microenvironment. 

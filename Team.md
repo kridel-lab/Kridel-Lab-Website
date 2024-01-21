@@ -79,6 +79,6 @@ Noorhan graduated with a Bachelor’s in Biochemistry at Beirut Arab University 
 
 Mohamed is a PhD student in the department of Medical Biophysics at UofT. 
 
-**Davidson Zhao**
+**Davidson Zhao, BSc (Hons)**
 
-Davidson graduated with a Bachelor’s in Laboratory Medicine and Pathobiology at the University of Toronto. He was working on the identification of molecular genetic aberrations with prognostic relevance in acute myeloid leukemia. He is currently pursuing his graduate studies in the Department of Medical Biophysics under the co-supervision of Dr. Robert Kridel and Dr. Federico Gaiti. Davidson’s current research interest focuses on deciphering the cell-cell interactions within the lymphoma tumour microenvironment. 
+Davidson graduated with a Bachelor’s in Laboratory Medicine and Pathobiology at the University of Toronto. Before joining the lab, he was working on the identification of molecular genetic aberrations with prognostic relevance in acute myeloid leukemia. Currently, he is a graduate student in the Department of Medical Biophysics under the co-supervision of Dr. Robert Kridel and Dr. Federico Gaiti. Davidson is interested in deciphering the cell-cell interactions within the lymphoma tumour microenvironment. 

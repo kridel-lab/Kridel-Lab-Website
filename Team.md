@@ -77,7 +77,7 @@ Noorhan graduated with a Bachelor’s in Biochemistry at Beirut Arab University 
 
 **Mohamed F. Alias**
 
-Mohamed is a PhD student in the department of Medical Biophysics at UofT. 
+Mohamed is a PhD student in the department of Medical Biophysics at UofT. He is interested in cancer genomics and how we can leverage machine learning tools on biological samples. His project involves working with cell free DNA (cfDNA) for our lymphoma samples; looking at methylation patterns to determine whether they can be used as biomarkers for detection of lymphoma. He works under the co-supervision of Dr. Robert Kridel and Dr. Scott Bratman. He has a Master's in Biology from New York University and a Bachelor's in Biomedical Science from The University of Western Australia.
 
 **Davidson Zhao, BSc (Hons)**
 

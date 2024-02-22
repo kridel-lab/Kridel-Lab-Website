@@ -10,4 +10,4 @@ Toronto, ON<br>
 M5G 1L7<br>
 [E-mail](mailto:robert.kridel@uhn.ca)
 
-We accept MSc students through the [Department of Medical Biophysics](https://medbio.utoronto.ca/medical-biophysics) or the [Institute of Medical Science](https://ims.utoronto.ca/home) at the University of Toronto.
+We accept MSc and PhD students through the [Department of Medical Biophysics](https://medbio.utoronto.ca/medical-biophysics) or the [Institute of Medical Science](https://ims.utoronto.ca/home) at the University of Toronto.

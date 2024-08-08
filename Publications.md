@@ -7,6 +7,7 @@ A full list of publications can be found [here](https://scholar.google.lu/citati
 
 ### Key research papers:
 
+- Identification of genetic subtypes in follicular lymphoma. Shelton V, Detroja R, Liu T, … Kridel R. Blood Cancer Journal, 2024
 -	Combined EZH2 inhibition and Ikaros degradation leads to enhanced anti-tumor activity in diffuse large B-cell lymphoma. Tong K, Yoon S, Isaev K, ... Kridel R. Clinical Cancer Research. 2021.
 - A risk model for relapsed/refractory aggressive NHL integrating clinical risk factors and pre-transplant Deauville score. Yhim HY, Eshet Y, Metser U, Lim CH, ... Kuruvilla J, Kridel R. Blood Advances. 2020 Nov 24;4(22):5762-5771.
 - Validation of the RHL30 digital gene expression assay as a prognostic biomarker for relapsed Hodgkin lymphoma. Calvente L, ... Kridel R. Br J Haematol. Sep;190(6):864-868.

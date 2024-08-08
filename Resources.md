@@ -10,6 +10,7 @@ layout: page
 
 ### Datasets:
 
+- [Identification of genetic subtypes in follicular lymphoma](https://ega-archive.org/studies/EGAS50000000435)
 - [Combined inhibition of EZH2 and degradation of Ikaros has synergistic effects in germinal center B-cell diffuse large B-cell lymphoma - RNAseq and ChIPseq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE152069)
 - [Follicular lymphoma DASL gene expression samples (n=137)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE119214)
 - [Histological Transformation and Progression in Follicular Lymphoma: A Clonal Evolution Study - WGS and targeted capture sequencing data](https://ega-archive.org/studies/EGAS00001001709)

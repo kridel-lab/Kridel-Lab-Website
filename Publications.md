@@ -7,6 +7,8 @@ A full list of publications can be found [here](https://scholar.google.lu/citati
 
 ### Key research papers:
 
+- Single gene mutations and prognosis in limited-stage follicular lymphoma treated with radiation therapy. Hershenfeld S, Tobin J, Shelton V, ... Kridel R. British Journal of Haematology, 2024. 
+- GNAS knockout potentiates HDAC3 inhibition through viral mimicry-related interferon responses in lymphoma. He M, Tong K, Liu T, ... Kridel R. Leukemia, 2024. 
 - Identification of genetic subtypes in follicular lymphoma. Shelton V, Detroja R, Liu T, … Kridel R. Blood Cancer Journal, 2024.
 -	Combined EZH2 inhibition and Ikaros degradation leads to enhanced anti-tumor activity in diffuse large B-cell lymphoma. Tong K, Yoon S, Isaev K, ... Kridel R. Clinical Cancer Research. 2021.
 - A risk model for relapsed/refractory aggressive NHL integrating clinical risk factors and pre-transplant Deauville score. Yhim HY, Eshet Y, Metser U, Lim CH, ... Kuruvilla J, Kridel R. Blood Advances. 2020 Nov 24;4(22):5762-5771.

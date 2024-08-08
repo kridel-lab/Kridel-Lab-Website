@@ -1,0 +1,12 @@
+---
+title: Paper published in Blood Cancer Journal
+date: "Aug 7, 2024"
+layout: post
+output:
+  html_document:
+---
+
+[Identification of genetic subtypes in follicular lymphoma](
+https://www.nature.com/articles/s41408-024-01111-w). Shelton V, Detroja R, Liu T, ... Kridel R. Blood Cancer Journal, 2024.
+
+In this paper, we dissect the diversity of FL to identify genetic subtypes with unique genetic profiles correlating with clinicopathological characteristics.

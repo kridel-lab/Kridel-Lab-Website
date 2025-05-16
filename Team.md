@@ -17,7 +17,7 @@ Robert is a Clinician-Scientist at the Princess Margaret Cancer Centre and an As
 
 **Kit Tong, PhD**
 
-Kit obtained her PhD in Medical Sciences, MSc in Epidemiology, and BSc in Biochemistry from Univ. of Tsukuba, Univ. of London, and Univ. of Saskatchewan. She developed interest in blood cancers during her post-doctoral training through studying therapy-related myeloid neoplasms. Her current research is on developing combination treatment to combat therapy resistance in lymphomas. She also takes on the role in managing the lab's daily operations.
+Kit is a Scientific Associate and Lab Manager in our lab. She obtained her PhD in Medical Sciences, MSc in Epidemiology, and BSc in Biochemistry from Univ. of Tsukuba, Univ. of London, and Univ. of Saskatchewan. She developed interest in blood cancers during her post-doctoral training through studying therapy-related myeloid neoplasms. Her current research is on developing combination treatment to combat therapy resistance in lymphomas.
 
 ---
 

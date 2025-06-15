@@ -22,4 +22,6 @@ layout: page
 - [Indolent non-Hodgkin Lymphoma](https://www.uhn.ca/PrincessMargaret/Health_Professionals/Programs_Departments/Documents/CPG_Lymphoma_IndolentLymphomas.pdf)
 - [Aggressive non-Hodgkin Lymphoma](https://www.uhn.ca/PrincessMargaret/Health_Professionals/Programs_Departments/Documents/CPG_Lymphoma_AggressiveLymphoma.pdf)
 - [Primary CNS Lymphoma](https://www.uhn.ca/PrincessMargaret/Health_Professionals/Programs_Departments/Documents/CPG_CNS_Lymphoma.pdf)
+- [Chronic lymphocytic leukemia](https://www.uhn.ca/PrincessMargaret/Health_Professionals/Programs_Departments/Documents/CPG_Lymphoma_ChronicLymphocyticLeukemia.pdf)
+- [Richter's transformation](https://www.uhn.ca/PrincessMargaret/Health_Professionals/Programs_Departments/Documents/CPG_Lymphoma_Richters.pdf)
 - [Hodgkin Lymphoma](https://www.uhn.ca/PrincessMargaret/Health_Professionals/Programs_Departments/Documents/CPG_Lymphoma_HodgkinLymphoma.pdf)

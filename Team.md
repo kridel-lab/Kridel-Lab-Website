@@ -13,11 +13,15 @@ Robert is a Clinician-Scientist at the Princess Margaret Cancer Centre and an As
 
 ---
 
-### Scientific Associate
+### Scientific Associates
 
 **Kit Tong, PhD**
 
 Kit is a Scientific Associate and Lab Manager in our lab. She obtained her PhD in Medical Sciences, MSc in Epidemiology, and BSc in Biochemistry from Univ. of Tsukuba, Univ. of London, and Univ. of Saskatchewan. She developed interest in blood cancers during her post-doctoral training through studying therapy-related myeloid neoplasms. Her current research is on developing combination treatment to combat therapy resistance in lymphomas.
+
+**Michael He, PhD, BSc (Hons), BPharm (Hons)**
+
+Michael completed his BSc (Hons) and PhD training at the University of Melbourne and the Peter MacCallum Cancer Centre, Australia; after obtained a BPharm (Hons) at Monash University, Australia. During his PhD, he developed a novel 3D CRISPR screening platform to understand blood endothelial cell response to cancer therapy, which further revealed epigenetic interactions with anti-angiogenesis for understanding of drug resistance. Michael’s current focus is on (1) investigating immunomodulating mechanisms to potentiate epigenetic therapy, (2) characterizing tumor microenvironment interactions, and (3) defining precision medicine/novel therapeutics in B-cell lymphoma. The ultimate goal is to uncover strategies for more effective therapy finally toward improved patient outcomes.
 
 ---
 
@@ -49,23 +53,11 @@ Michael is a Clinical Research Coordinator who facilitates consenting of patient
 
 ---
 
-### Clinical and Research Fellow
-
-**Tomohiro Aoki, MD PhD**
-
-Tomohiro is a Clinical Research Fellow at the Princess Margaret Cancer Centre. He trained in hematology and oncology in Japan. From his front-line experience as a hematologist and oncologist, he felt a strong desire to pursue translational research to improve patient survival for refractory lymphoma patients. Then, he obtained PhD at Nagoya University in Japan and moved to Vancouver where he learned cutting-edge translational research skills. The central focus of his research is to understand how interactions between immune cells in the tumor microenvironment and tumor cells regulate the development and treatment resistance of lymphoid cancers. The ultimate research goal is to discover biomarkers and novel treatment targets.
-
----
-
 ### Post-doctoral fellows
 
 **Rajesh Detroja, PhD**
 
 Rajesh completed his Ph.D. studies at Bar-Ilan University, Israel, where he developed a novel fast, and an accurate tool called ChiTaH to identify known human chimeric sequences from high-throughput sequencing data. ChiTaH was later used to study the expression of recurrent chimeric RNAs in Rheumatoid Arthritis patients. Rajesh is interested in studying the multi-omics of cancer by applying bioinformatics and machine learning technologies. His current research includes the study of multi-omics profiling of B-Cell lymphoma and circular tumor DNA using Next-Generation Sequencing data analysis. This will help classify the types of lymphomas for effective diagnosis and treatment.
-
-**Michael He, PhD, BSc (Hons), BPharm (Hons)**
-
-Michael completed his BSc (Hons) and PhD training at the University of Melbourne and the Peter MacCallum Cancer Centre, Australia; after obtained a BPharm (Hons) at Monash University, Australia. During his PhD, he developed a novel 3D CRISPR screening platform to understand blood endothelial cell response to cancer therapy, which further revealed epigenetic interactions with anti-angiogenesis for understanding of drug resistance. Michael’s current focus is on (1) investigating immunomodulating mechanisms to potentiate epigenetic therapy, (2) characterizing tumor microenvironment interactions, and (3) defining precision medicine/novel therapeutics in B-cell lymphoma. The ultimate goal is to uncover strategies for more effective therapy finally toward improved patient outcomes.
 
 ---
 

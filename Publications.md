@@ -7,6 +7,7 @@ A full list of publications can be found [here](https://scholar.google.lu/citati
 
 ### Key research papers:
 
+- Risk Assessment with Ultra-Low-Pass Whole Genome Sequencing of Cell-Free DNA for Large B-Cell Lymphoma. Zhao D, Lang N, Liu T, ... Kridel R. JCO Precision Oncology, 2025. 
 - Single gene mutations and prognosis in limited-stage follicular lymphoma treated with radiation therapy. Hershenfeld S, Tobin J, Shelton V, ... Kridel R. British Journal of Haematology, 2024. 
 - GNAS knockout potentiates HDAC3 inhibition through viral mimicry-related interferon responses in lymphoma. He M, Tong K, Liu T, ... Kridel R. Leukemia, 2024. 
 - Identification of genetic subtypes in follicular lymphoma. Shelton V, Detroja R, Liu T, … Kridel R. Blood Cancer Journal, 2024.

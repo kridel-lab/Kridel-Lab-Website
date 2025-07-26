@@ -10,7 +10,7 @@ title: Publications
   <img src="/img/zhao_JCO_PO.png" alt="LBCL ULP-WGS Figure"
        style="width: 100%; max-width: 400px; height: auto; flex-shrink: 0;" />
 
-  <div style="flex: 1; min-width: 250px;">
+  <div style="flex: 1; min-width: 350px;">
     <h3 style="margin: 0;">
       <a href="https://ascopubs.org/doi/10.1200/PO-25-00200" style="color: #007bff; text-decoration: none;">Risk Assessment With Ultra-Low-Pass Whole-Genome Sequencing of Cell-Free DNA for Large B-Cell Lymphoma</a>
     </h3>
@@ -28,7 +28,7 @@ title: Publications
   <img src="/img/hershenfeld_BJH.png" alt="BJH"
        style="width: 100%; max-width: 400px; height: auto; flex-shrink: 0;" />
 
-  <div style="flex: 1; min-width: 250px;">
+  <div style="flex: 1; min-width: 350px;">
     <h3 style="margin: 0;">
       <a href="https://ascopubs.org/doi/10.1200/PO-25-00200" style="color: #007bff; text-decoration: none;">Risk Assessment With Ultra-Low-Pass Whole-Genome Sequencing of Cell-Free DNA for Large B-Cell Lymphoma</a>
     </h3>

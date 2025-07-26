@@ -35,7 +35,6 @@ title: Publications
 
 </div>
 
-
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
 
   <img src="/img/publications/prica_nejm.png" alt=""
@@ -45,7 +44,7 @@ title: Publications
     <h3 style="margin: 0;">
       <a href="https://www.nejm.org/doi/abs/10.1056/NEJMc2501018" style="color: #007bff; text-decoration: none;">Glofitamab with Polatuzumab Vedotin in Refractory Burkitt’s Lymphoma</a>
     </h3>
-    <p style="margin: 5px 0;"><strong>Prica A, Roschewski M, Beale P ... Kridel R</strong></p>
+    <p style="margin: 5px 0;"><strong>Prica A, Roschewski M, Beale P, ... Kridel R</strong></p>
     <p style="margin: 0;">New England Journal of Medicine</p>
   </div>
 

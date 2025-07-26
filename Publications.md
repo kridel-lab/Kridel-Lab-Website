@@ -208,7 +208,7 @@ title: Publications
     <h3 style="margin: 0;">
       <a href="https://onlinelibrary.wiley.com/doi/10.1111/bjh.14392" style="color: #007bff; text-decoration: none;">Diffuse large B-cell lymphoma with testicular involvement: outcome and risk of CNS relapse in the rituximab era</a>
     </h3>
-    <p style="margin: 5px 0;"><strong>Kridel R\*, Telio D\*, ... Savage KJ</strong></p>
+    <p style="margin: 5px 0;"><strong>Kridel R*, Telio D*, ... Savage KJ</strong></p>
     <p style="margin: 0;">British Journal of Haematology</p>
   </div>
 
@@ -225,7 +225,7 @@ title: Publications
     <h3 style="margin: 0;">
       <a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002197" style="color: #007bff; text-decoration: none;">Histological Transformation and Progression in Follicular Lymphoma: A Clonal Evolution Study</a>
     </h3>
-    <p style="margin: 5px 0;"><strong>Kridel R\*, Chan FC\*, Mottok A, ... Gascoyne RD, Shah P</strong></p>
+    <p style="margin: 5px 0;"><strong>Kridel R*, Chan FC*, Mottok A, ... Gascoyne RD, Shah P</strong></p>
     <p style="margin: 0;">PLOS Medicine</p>
   </div>
 

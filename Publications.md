@@ -29,7 +29,7 @@ title: Publications
     <h3 style="margin: 0;">
       <a href="https://onlinelibrary.wiley.com/doi/10.1111/bjh.20132" style="color: #007bff; text-decoration: none;">Distinct characteristics and social determinants in adult T-cell leukaemia/lymphoma patients at a tertiary cancer centre in Canada</a>
     </h3>
-    <p style="margin: 5px 0;"><strong>Aoki T, Salib M, Suleman A, ... Kridel R</strong></p>
+    <p style="margin: 5px 0;"><strong>Aoki T, Salib M, ... Kridel R</strong></p>
     <p style="margin: 0;">British Journal of Haematology</p>
   </div>
 
@@ -189,9 +189,9 @@ title: Publications
     <h3 style="margin: 0;">
       <a href="https://ashpublications.org/blood/article/131/2/226/37016/FOXP1-expression-is-a-prognostic-biomarker-in" style="color: #007bff; text-decoration: none;">FOXP1 expression is a prognostic biomarker in follicular lymphoma treated with rituximab and chemotherapy</a>
     </h3>
-    <p style="margin: 5px 0;"><strong>Mottok A,\* Jurinovic V,\* ... Hoster E,\* Weigert O,\* Kridel R.\*</strong></p>
+    <p style="margin: 5px 0;"><strong>Mottok A*, Jurinovic V*, ... Hoster E*, Weigert O*, Kridel R*</strong></p>
     <p style="margin: 0;">Blood</p>
-    <p style="margin: 0;">(\* denotes equal contribution)</p>
+    <p style="margin: 0;">(* denotes equal contribution)</p>
   </div>
 
 </div>
@@ -243,9 +243,9 @@ title: Publications
     <h3 style="margin: 0;">
       <a href="https://ashpublications.org/blood/article/126/18/2118/34503/Cell-of-origin-of-transformed-follicular-lymphoma" style="color: #007bff; text-decoration: none;">Cell of origin of transformed follicular lymphoma</a>
     </h3>
-    <p style="margin: 5px 0;"><strong>Kridel R,\* Mottok A,\* ... Scott DW, Gascoyne RD</strong></p>
+    <p style="margin: 5px 0;"><strong>Kridel R*, Mottok A*, ... Scott DW, Gascoyne RD</strong></p>
     <p style="margin: 0;">Blood</p>
-    <p style="margin: 0;">(\* denotes equal contribution)</p>
+    <p style="margin: 0;">(* denotes equal contribution)</p>
   </div>
 
 </div>
@@ -259,9 +259,9 @@ title: Publications
     <h3 style="margin: 0;">
       <a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)00169-2/" style="color: #007bff; text-decoration: none;">Integration of gene mutations in risk prognostication for patients receiving first-line immunochemotherapy for follicular lymphoma: a retrospective analysis of a prospective clinical trial and validation in a population-based registry</a>
     </h3>
-    <p style="margin: 5px 0;"><strong>Pastore A,\* Jurinovic V,\* Kridel R,\* Hoster E,\* ... Gascoyne RD, Weinstock DM, Weigert O</strong></p>
+    <p style="margin: 5px 0;"><strong>Pastore A*, Jurinovic V*, Kridel R*, Hoster E*, ... Gascoyne RD, Weinstock DM, Weigert O</strong></p>
     <p style="margin: 0;">Lancet Oncology</p>
-    <p style="margin: 0;">(\* denotes equal contribution)</p>
+    <p style="margin: 0;">(* denotes equal contribution)</p>
   </div>
 
 </div>

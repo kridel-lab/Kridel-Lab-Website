@@ -7,7 +7,7 @@ title: Publications
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
 
-  <img src="/img/zhao_JCO_PO.png" alt=""
+  <img src="/img/publications/zhao_JCO_PO.png" alt=""
        style="width: 100%; max-width: 350px; height: auto; flex-shrink: 0;" />
 
   <div style="flex: 1; min-width: 300px;">
@@ -25,7 +25,7 @@ title: Publications
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
 
-  <img src="/img/hershenfeld_BJH.png" alt=""
+  <img src="/img/publications/hershenfeld_BJH.png" alt=""
        style="width: 100%; max-width: 350px; height: auto; flex-shrink: 0;" />
 
   <div style="flex: 1; min-width: 300px;">
@@ -42,7 +42,7 @@ title: Publications
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
 
-  <img src="/img/he_leukemia.png" alt=""
+  <img src="/img/publications/he_leukemia.png" alt=""
        style="width: 100%; max-width: 350px; height: auto; flex-shrink: 0;" />
 
   <div style="flex: 1; min-width: 300px;">
@@ -58,7 +58,7 @@ title: Publications
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
 
-  <img src="/img/shelton_blood_cancer_journal.png" alt=""
+  <img src="/img/publications/shelton_blood_cancer_journal.png" alt=""
        style="width: 100%; max-width: 350px; height: auto; flex-shrink: 0;" />
 
   <div style="flex: 1; min-width: 300px;">

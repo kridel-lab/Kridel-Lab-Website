@@ -32,8 +32,27 @@ title: Publications
     <h3 style="margin: 0;">
       <a href="https://ascopubs.org/doi/10.1200/PO-25-00200" style="color: #007bff; text-decoration: none;">Risk Assessment With Ultra-Low-Pass Whole-Genome Sequencing of Cell-Free DNA for Large B-Cell Lymphoma</a>
     </h3>
-    <p style="margin: 5px 0;"><strong>Risk Assessment With Ultra-Low-Pass Whole-Genome Sequencing of Cell-Free DNA for Large B-Cell Lymphoma</strong></p>
-    <p style="margin: 0;">JCO Precision Oncology Vol. 1, No. 1</p>
+    <p style="margin: 5px 0;"><strong>Hershenfeld S, Tobin J, Shelton V, ... Kridel R</strong></p>
+    <p style="margin: 0;">British Journal of Haematology</p>
   </div>
 
 </div>
+
+
+
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
+
+  <img src="/img/he_leukemia.png" alt=""
+       style="width: 100%; max-width: 300px; height: auto; flex-shrink: 0;" />
+
+  <div style="flex: 1; min-width: 300px;">
+    <h3 style="margin: 0;">
+      <a href="https://ascopubs.org/doi/10.1200/PO-25-00200" style="color: #007bff; text-decoration: none;">Risk Assessment With Ultra-Low-Pass Whole-Genome Sequencing of Cell-Free DNA for Large B-Cell Lymphoma</a>
+    </h3>
+    <p style="margin: 5px 0;"><strong>He M, Tong K, Liu T, ... Kridel R</strong></p>
+    <p style="margin: 0;">Leukemia</p>
+  </div>
+
+</div>
+
+

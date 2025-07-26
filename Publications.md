@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
-### ![TEST](/img/zhao_JCO_PO.jpg){: style="float: left; width: 150px; margin-right: 20px; margin-bottom: 10px;" }
+### ![TEST](/img/zhao_JCO_PO.png){: style="float: left; width: 150px; margin-right: 20px; margin-bottom: 10px;" }
 
 #### [JCO PO](https://ascopubs.org/doi/10.1200/PO-25-00200)
 **TEST  

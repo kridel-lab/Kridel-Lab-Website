@@ -18,18 +18,19 @@ title: Publications
 
 </div>
 
+
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
 
   <img src="/img/zhao_JCO_PO.png" alt="LBCL ULP-WGS Figure"
-       style="width: 100%; max-width: 400px; height: auto; flex-shrink: 0;" />
+       style="flex: 0 0 350px; width: 100%; height: auto;" />
 
-  <div style="flex: 2; min-width: 300px; font-size: 0.9rem; line-height: 1.4;">
-    <h3 style="margin: 0 0 8px 0; font-size: 1.1rem;">
+  <div style="flex: 1.8; min-width: 300px; font-size: 0.85rem; line-height: 1.4;">
+    <h3 style="margin: 0 0 8px 0; font-size: 1rem;">
       <a href="https://ascopubs.org/doi/10.1200/PO-25-00200" style="color: #007bff; text-decoration: none;">
         Risk Assessment With Ultra-Low-Pass Whole-Genome Sequencing of Cell-Free DNA for Large B-Cell Lymphoma
       </a>
     </h3>
-    <p style="margin: 5px 0; font-weight: bold;">
+    <p style="margin: 5px 0;">
       Risk Assessment With Ultra-Low-Pass Whole-Genome Sequencing of Cell-Free DNA for Large B-Cell Lymphoma
     </p>
     <p style="margin: 0;">

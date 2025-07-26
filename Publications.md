@@ -11,8 +11,8 @@ title: Publications
     <h3 style="margin: 0;">
       <a href="https://ascopubs.org/journal/jcop" style="color: #007bff; text-decoration: none;">JCO PO</a>
     </h3>
-    <p style="margin: 5px 0;"><strong>Risk assessment with ULP</strong></p>
-    <p style="margin: 0;">JCO PO Vol. 1, No. 1</p>
+    <p style="margin: 5px 0;"><strong>Risk Assessment With Ultra-Low-Pass Whole-Genome Sequencing of Cell-Free DNA for Large B-Cell Lymphoma</strong></p>
+    <p style="margin: 0;">JCO Precision Oncology Vol. 1, No. 1</p>
   </div>
 
 </div>

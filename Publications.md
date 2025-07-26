@@ -8,8 +8,8 @@ title: Publications
 
 #### [JCO PO](https://ascopubs.org/doi/10.1200/PO-25-00200)
 **TEST  
-*Science Translational Medicine* Vol. 17, No. 779  
-[Read more →](https://www.science.org/doi/10.1126/scitranslmed.ade7799)
+*JCO PO* Vol. 1, No. 1  
+[Read more →]([https://www.science.org/doi/10.1126/scitranslmed.ade7799](https://ascopubs.org/doi/10.1200/PO-25-00200)
 
 <br clear="all" />
 

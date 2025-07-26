@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-### 2025
+# 2025
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
 

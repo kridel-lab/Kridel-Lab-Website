@@ -65,7 +65,11 @@ Rajesh completed his Ph.D. studies at Bar-Ilan University, Israel, where he deve
 
 **Noorhan Ghanem, MSc**
 
-Noorhan graduated with a Bachelor’s in Biochemistry at Beirut Arab University and obtained her Master’s of Science in Biochemistry and Molecular Genetics at the American University of Beirut in Lebanon. She was working on investigating therapeutic opportunities in treating colorectal cancer by targeting the pentose phosphate pathway and sensitizing resistant cells to 5-Fluorouracil. She is currently pursuing her doctoral studies at the University of Toronto in the Dept. of Medical Biophysics, working under the co-supervision of Dr. Robert Kridel and Dr. Aaron Schimmer. Noorhan’s current research interest focuses on deciphering treatment resistance in Adult T cell Leukemia-Lymphoma (ATLL), a rare type of virally induced lymphoma with a severe and dismal prognosis
+Noorhan graduated with a Bachelor’s in Biochemistry at Beirut Arab University and obtained her Master’s of Science in Biochemistry and Molecular Genetics at the American University of Beirut in Lebanon. She was working on investigating therapeutic opportunities in treating colorectal cancer by targeting the pentose phosphate pathway and sensitizing resistant cells to 5-Fluorouracil. She is currently pursuing her doctoral studies at the University of Toronto in the Dept. of Medical Biophysics, working under the co-supervision of Dr. Robert Kridel and Dr. Aaron Schimmer. Noorhan’s current research interest focuses on deciphering treatment resistance in Adult T cell Leukemia-Lymphoma (ATLL), a rare type of virally induced lymphoma with a severe and dismal prognosis.
+
+**Uditha Maduranga, BSc (Hons)**
+
+Uditha graduated with a Bachelor's degree in Computer Science and Engineering from the University of Moratuwa, Sri Lanka. Prior to joining the lab, he worked as a Bioinformatics Analyst at Baylor College of Medicine in Houston, where he investigated systemic interindividual epigenetic variants and metastable epialleles. Currently, Uditha is a PhD student in the Department of Medical Biophysics at the University of Toronto, co-supervised by Dr. Robert Kridel and Dr. Scott Bratman. His research primarily focuses on developing novel biomarkers and detecting minimal residual disease in lymphoma using circulating tumor DNA (ctDNA), integrating bioinformatics, machine learning, genomics, and epigenomics.
 
 **Davidson Zhao, BSc (Hons)**
 

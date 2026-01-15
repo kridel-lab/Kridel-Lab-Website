@@ -53,7 +53,7 @@ Michael is a Clinical Research Coordinator who facilitates consenting of patient
 
 ---
 
-### Post-doctoral fellows
+### Post-doctoral fellow
 
 **Rajesh Detroja, PhD**
 

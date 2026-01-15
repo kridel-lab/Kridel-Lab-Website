@@ -3,7 +3,7 @@ title: Team
 layout: page
 ---
 
-<img align="center" src="/img/IMG_0335.jpeg" height="350">
+<img align="center" src="/img/IMG_1128.jpeg" height="350">
 
 ### Principal Investigator
 
@@ -66,10 +66,6 @@ Rajesh completed his Ph.D. studies at Bar-Ilan University, Israel, where he deve
 **Noorhan Ghanem, MSc**
 
 Noorhan graduated with a Bachelor’s in Biochemistry at Beirut Arab University and obtained her Master’s of Science in Biochemistry and Molecular Genetics at the American University of Beirut in Lebanon. She was working on investigating therapeutic opportunities in treating colorectal cancer by targeting the pentose phosphate pathway and sensitizing resistant cells to 5-Fluorouracil. She is currently pursuing her doctoral studies at the University of Toronto in the Dept. of Medical Biophysics, working under the co-supervision of Dr. Robert Kridel and Dr. Aaron Schimmer. Noorhan’s current research interest focuses on deciphering treatment resistance in Adult T cell Leukemia-Lymphoma (ATLL), a rare type of virally induced lymphoma with a severe and dismal prognosis
-
-**Mohamed F. Alias**
-
-Mohamed is a PhD student in the department of Medical Biophysics at UofT. He is interested in cancer genomics and how we can leverage machine learning tools on biological samples. His project involves working with cell free DNA (cfDNA) for our lymphoma samples; looking at methylation patterns to determine whether they can be used as biomarkers for detection of lymphoma. He works under the co-supervision of Dr. Robert Kridel and Dr. Scott Bratman. He has a Master's in Biology from New York University and a Bachelor's in Biomedical Science from The University of Western Australia.
 
 **Davidson Zhao, BSc (Hons)**
 
